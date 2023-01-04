@@ -67,6 +67,7 @@
 
 - [Playbooks Automation components by Phantom](https://github.com/phantomcyber/playbooks)
 - [Playbooks Automation components part 2 by Phantom](https://github.com/phantomcyber/phantom-apps/tree/next/Apps)
+- [Playbooks Automation components by DTonomy](https://doc.dtonomy.com/playbooks.html)
 - [Playbooks Automation components by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/playbooks)
 - [Playbooks Automation components part 2 by ThreatConnect](https://github.com/ThreatConnect-Inc/threatconnect-playbooks/tree/master/apps)
 - [Playbooks Automation components by Rapid7](https://github.com/rapid7/insightconnect-workflows/tree/master/workflows)
